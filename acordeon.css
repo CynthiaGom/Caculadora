@@ -1,0 +1,81 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.encabezado{
+	position: fixed;
+	width: 100%;
+	height: 15%;
+	background-color: #4E3144;
+	padding: 15px;
+	
+	color: white;
+	text-align: center;
+	font-family: Century Gothic;
+	text-shadow: 10px 10px 15px black;
+
+}
+
+.dos{
+	position: fixed;
+	width: 100%;
+	height: 80%;
+	top: 15%;
+	background: #352530;
+	overflow: scroll;
+}
+
+
+	
+	.acordeon{
+		
+		width: 100%;
+		height: 85%;
+		top: 0%;
+		
+	}
+
+		.acordeon textarea
+		{
+			width: 100%;
+			height: 100%;
+			text-align: center;
+			border: none;
+			background-color: transparent;
+
+			font-family: Century Gothic;
+			color: white;
+
+		}
+
+	.botones{
+		width: 100%;
+		height: 15%;
+		top: 85%;
+	}
+
+		.botones button{
+			float: left;
+			width: 50%;
+			height:100%;
+			
+			color: white;
+			font-size: 20px;
+			font-weight: bold;
+			font-family: Century Gothic;
+
+		}
+
+
+			.regr {
+				
+				background-color: #4E3144;
+				border: none;
+			}
+
+			.guar {
+				background-color: #F076C8;
+				border: none;
+
+			}
