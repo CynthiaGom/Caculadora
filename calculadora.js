@@ -19,7 +19,7 @@ function igual(){
 
 function secreto(){
 	valor = document.getElementById('hola').value;
-	if (valor == "007"){
+	if (valor == "008"){
 	window.location.assign('acordeon.html');
 	}
 }
