@@ -6,7 +6,7 @@ botonr = document.getElementById('r');//
 	botonr.addEventListener('click',reg,true);
 
 function reg(){
-	window.location.assign('idex.html');
+	window.location.assign('index.html');
 }
 
 
