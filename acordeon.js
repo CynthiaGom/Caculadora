@@ -6,7 +6,7 @@ botonr = document.getElementById('r');//
 	botonr.addEventListener('click',reg,true);
 
 function reg(){
-	window.location.assign('calculadora.html');
+	window.location.assign('idex.html');
 }
 
 
